@@ -1,2 +1,2 @@
-# Memória
-Lab04 - Memória Sistemas Operacionais
+# Lab04 - Memória
+
