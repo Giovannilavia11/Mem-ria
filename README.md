@@ -1,5 +1,11 @@
 # Lab04 - Memória
 
+## Grupo:
+- Felipe do Nascimento Fonseca - 10409389
+- Giovanni Alves Lavia - 10409448
+
+<hr>
+
 ### 1. Considerando a estrutura de dados celula, crie três instâncias do objeto célula (três valores na lista).
 ```c
 celula c1, c2, c3;
