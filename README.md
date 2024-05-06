@@ -1,2 +1,2 @@
-# Mem-ria
+# Memória
 Lab04 - Memória Sistemas Operacionais
