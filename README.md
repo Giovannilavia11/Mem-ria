@@ -77,11 +77,13 @@ int calcularMaximoElementosPossiveis() {
     return numeroMaximoCelulas;
 }
 ```
+A função calcularMaximoElementosPossiveis() calculará o número máximo de células que podemos alocar com base na memória disponível e no tamanho de cada célula. Em seguida, podemos adaptar esse número para considerar o tamanho do conteúdo da célula, se necessário, ou fazer outras modificações dependendo dos requisitos específicos do sistema. 
+
 ### Resultado esperado:
 
 ![image](https://github.com/Giovannilavia11/Memoria/assets/89709011/f5fa05d7-904a-4817-a4bb-b52f16765a01)
 
-A função calcularMaximoElementosPossiveis() calculará o número máximo de células que podemos alocar com base na memória disponível e no tamanho de cada célula. Em seguida, podemos adaptar esse número para considerar o tamanho do conteúdo da célula, se necessário, ou fazer outras modificações dependendo dos requisitos específicos do sistema. 
+<hr>
 
 ### Código final do programa:
 ```c
